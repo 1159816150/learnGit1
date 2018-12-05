@@ -21,7 +21,7 @@ G:\Git\learnGit
 
 可生成你的密钥密码，每次上传文件时都需要输入。
 
-![1543993689034](C:\Users\小肥羊\AppData\Roaming\Typora\typora-user-images\1543993689034.png)
+![1543993689034](https://raw.githubusercontent.com/1159816150/learnGit1/master/image/1543993689034.png)
 
 ####6.此时已生成密钥，要向GitHub添加新的ssh密钥
 
@@ -39,10 +39,10 @@ G:\Git\learnGit
 
 
 
-#### ![1543993973851](C:\Users\小肥羊\AppData\Roaming\Typora\typora-user-images\1543993973851.png)
+#### ![1543993973851](https://raw.githubusercontent.com/1159816150/learnGit1/master/image/1543993973851.png)
 
-具体内容可参照链接学习，步骤一样的。
+####9.最后是提交文件到GitHub仓库，具体内容可参照链接学习，步骤一样的。
 
 http://www.markdown.cn/#blockquotes
 
-![1543993736755](C:\Users\小肥羊\AppData\Roaming\Typora\typora-user-images\1543993736755.png)
+![1543993736749](https://raw.githubusercontent.com/1159816150/learnGit1/master/image/1543993727849.png)
